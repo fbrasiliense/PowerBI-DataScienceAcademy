@@ -1,0 +1,25 @@
+Código	Setor
+1010	Energia
+1510	Materiais
+2010	Bens de Consumo
+2020	Serviços Profissionais
+2030	Transporte
+2510	Automóveis
+2520	Bens Duráveis
+2530	Serviços Gerais
+2540	Mídia
+2550	Varejo
+3010	Alimentação
+3020	Bebidas
+3030	Produtos Pessoais
+3510	Health Care Equipment & Services
+3520	Farmácia e Biotecnologia
+4010	Finanças Corporativas
+4020	Finanças Pessoais
+4030	Seguros
+4040	Imóveis
+4510	Software e Serviços
+4520	Equipamentos Tecnológicos e Hardware
+4530	Semiconductores
+5010	Serviços de Telecomunicações
+5510	Utilidades
