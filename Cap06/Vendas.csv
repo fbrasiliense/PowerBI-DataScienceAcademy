@@ -1,0 +1,107 @@
+ID-Transação,Data,Produto,Serial number,Valor de Venda,Preço Custo,Cidade,Estado,País
+1009,6/3/2017,DX101,GF54319,17.62,9.16,Belo Horizonte,Minas Gerais,Brasil
+1031,18/03/2017,DX101,GF54489,18.56,8.11,Belo Horizonte,Minas Gerais,Brasil
+1034,20/03/2017,DX101,GF54405,19.12,8.11,Vitória,Espírito Santo,Brasil
+1057,31/03/2017,DX101,GF54430,19.11,8.28,São Paulo,São Paulo,Brasil
+1059,24/03/2017,DX101,GF54576,18.9,8.99,Vitória,Espírito Santo,Brasil
+1062,29/03/2017,DX101,GF54587,16.87,9.34,Vitória,Espírito Santo,Brasil
+1076,22/03/2017,DX101,GF54501,18.34,9.34,Campos,Rio de Janeiro,Brasil
+1077,5/3/2017,DX101,GF54258,17.43,9.52,Belo Horizonte,Minas Gerais,Brasil
+1085,20/03/2017,DX101,GF54296,21.23,8.11,Uberlândia,Minas Gerais,Brasil
+1087,20/03/2017,DX101,GF54389,22.9,8.64,Uberlândia,Minas Gerais,Brasil
+1090,29/03/2017,DX101,GF54462,23.87,9.69,Petrópolis,Rio de Janeiro,Brasil
+1093,2/3/2017,DX101,GF54592,15.56,9.34,Belo Horizonte,Minas Gerais,Brasil
+1102,23/03/2017,DX101,GF54599,16.98,8.64,Taubaté,São Paulo,Brasil
+1027,27/02/2017,CX102,GF54233,24.79,11.4,Belo Horizonte,Minas Gerais,Brasil
+1048,3/3/2017,CX102,GF54664,25.98,12.89,Linhares,Espírito Santo,Brasil
+1066,5/3/2017,CX102,GF54402,26.9,13.39,Petrópolis,Rio de Janeiro,Brasil
+1094,5/3/2017,CX102,GF54679,21.87,11.4,Belo Horizonte,Minas Gerais,Brasil
+1004,28/03/2017,BX101,GF54527,30.06,13.53,Rio de Janeiro,Rio de Janeiro,Brasil
+1039,17/03/2017,BX101,GF54692,29.4,14.73,Vila Velha,Espírito Santo,Brasil
+1040,4/3/2017,BX101,GF54696,28.98,14.73,Vila Velha,Espírito Santo,Brasil
+1046,4/3/2017,BX101,GF54607,27.65,14.73,Linhares,Espírito Santo,Brasil
+1064,11/3/2017,BX101,GF54434,26.9,14.73,Petrópolis,Rio de Janeiro,Brasil
+1070,20/03/2017,BX101,GF54460,33.9,15.03,Belo Horizonte,Minas Gerais,Brasil
+1072,30/03/2017,BX101,GF54433,34.23,14.73,São Paulo,São Paulo,Brasil
+1014,29/03/2017,DX103,GF54556,42.52,23.39,Osasco,São Paulo,Brasil
+1018,7/3/2017,DX103,GF54315,43.98,19.13,São Paulo,São Paulo,Brasil
+1043,17/03/2017,DX103,GF54250,44.12,22.96,Linhares,Espírito Santo,Brasil
+1044,21/03/2017,DX103,GF54604,39.9,21.26,Linhares,Espírito Santo,Brasil
+1065,4/3/2017,DX103,GF54658,43.9,19.98,Rio de Janeiro,Rio de Janeiro,Brasil
+1013,27/03/2017,CX101,GF54609,45.9,21.75,Campinas,São Paulo,Brasil
+1019,14/03/2017,CX101,GF54568,45.98,21.29,São Paulo,São Paulo,Brasil
+1029,4/3/2017,CX101,GF54685,44.12,23.1,Belo Horizonte,Minas Gerais,Brasil
+1045,24/03/2017,CX101,GF54559,44.9,21.75,Linhares,Espírito Santo,Brasil
+1089,14/03/2017,CX101,GF54601,45.9,24.92,Rio de Janeiro,Rio de Janeiro,Brasil
+1008,27/02/2017,AX102,GF54584,51.28,24.1,Betim,Minas Gerais,Brasil
+1010,27/03/2017,AX102,GF54236,53.87,27.18,Teresópolis,Rio de Janeiro,Brasil
+1011,7/3/2017,AX102,GF54473,54.98,25.64,Teresópolis,Rio de Janeiro,Brasil
+1025,24/03/2017,AX102,GF54245,59.87,24.62,Campos,Rio de Janeiro,Brasil
+1038,27/02/2017,AX102,GF54331,55.89,28.2,Vitória,Espírito Santo,Brasil
+1041,16/03/2017,AX102,GF54298,55.12,25.13,Vila Velha,Espírito Santo,Brasil
+1053,24/03/2017,AX102,GF54615,53.12,28.2,São Paulo,São Paulo,Brasil
+1055,23/03/2017,AX102,GF54232,53.9,28.2,São Paulo,São Paulo,Brasil
+1067,6/3/2017,AX102,GF54400,54.9,23.08,Campos,Rio de Janeiro,Brasil
+1079,13/03/2017,AX102,GF54405,55.14,24.1,Belo Horizonte,Minas Gerais,Brasil
+1098,17/03/2017,AX102,GF54268,55.34,26.15,São Paulo,São Paulo,Brasil
+1104,27/03/2017,AX102,GF54322,54.87,24.62,Belo Horizonte,Minas Gerais,Brasil
+1106,21/03/2017,AX102,GF54301,54.9,25.64,Teresópolis,Rio de Janeiro,Brasil
+1007,5/3/2017,AX103,GF54240,54.23,25.15,Taubaté,São Paulo,Brasil
+1012,25/03/2017,AX103,GF54256,53.98,25.15,Teresópolis,Rio de Janeiro,Brasil
+1017,23/03/2017,AX103,GF54594,52.1,25.68,São Paulo,São Paulo,Brasil
+1023,31/03/2017,AX103,GF54314,51.9,27.82,Rio de Janeiro,Rio de Janeiro,Brasil
+1030,20/03/2017,AX103,GF54331,51.97,25.68,Belo Horizonte,Minas Gerais,Brasil
+1050,7/3/2017,AX103,GF54324,51.29,27.82,Campinas,São Paulo,Brasil
+1054,15/03/2017,AX103,GF54498,51.87,29.43,São Paulo,São Paulo,Brasil
+1071,23/03/2017,AX103,GF54457,53.9,29.43,São Paulo,São Paulo,Brasil
+1082,7/3/2017,AX103,GF54279,53.5,25.68,São Paulo,São Paulo,Brasil
+1086,2/3/2017,AX103,GF54401,54.44,24.08,Uberlândia,Minas Gerais,Brasil
+1100,27/03/2017,AX103,GF54373,54.9,28.36,Campos,Rio de Janeiro,Brasil
+1002,27/02/2017,BX102,GF54425,54.87,29.46,Petrópolis,Rio de Janeiro,Brasil
+1006,19/03/2017,BX102,GF54484,54.9,28.39,São Paulo,São Paulo,Brasil
+1015,19/03/2017,BX102,GF54434,54.1,26.25,Osasco,São Paulo,Brasil
+1016,27/03/2017,BX102,GF54418,55.67,26.25,São Paulo,São Paulo,Brasil
+1036,1/3/2017,BX102,GF54373,54.9,26.25,Vitória,Espírito Santo,Brasil
+1037,27/03/2017,BX102,GF54448,54.9,28.39,Vitória,Espírito Santo,Brasil
+1049,4/3/2017,BX102,GF54620,54.12,28.93,Santos,São Paulo,Brasil
+1061,8/3/2017,BX102,GF54685,55.55,24.64,Vitória,Espírito Santo,Brasil
+1095,6/3/2017,BX102,GF54251,56.1,25.18,São Paulo,São Paulo,Brasil
+1021,13/03/2017,DX102,GF54634,62.46,30.61,Rio de Janeiro,Rio de Janeiro,Brasil
+1024,19/03/2017,DX102,GF54527,53.9,30.61,Petrópolis,Rio de Janeiro,Brasil
+1033,28/02/2017,DX102,GF54323,64.98,34.35,Vila Velha,Espírito Santo,Brasil
+1047,18/03/2017,DX102,GF54264,65.87,34.35,Linhares,Espírito Santo,Brasil
+1060,11/3/2017,DX102,GF54374,65.9,31.86,Vitória,Espírito Santo,Brasil
+1063,25/03/2017,DX102,GF54493,65.1,28.73,Rio de Janeiro,Rio de Janeiro,Brasil
+1068,22/03/2017,DX102,GF54521,66.19,28.11,Belo Horizonte,Minas Gerais,Brasil
+1074,23/03/2017,DX102,GF54341,66.34,30.61,São Paulo,São Paulo,Brasil
+1083,17/03/2017,DX102,GF54334,67.1,31.23,São Paulo,São Paulo,Brasil
+1084,27/02/2017,DX102,GF54304,68.45,31.86,São Paulo,São Paulo,Brasil
+1105,29/03/2017,DX102,GF54356,56.9,32.48,Teresópolis,Rio de Janeiro,Brasil
+1001,19/03/2017,AX101,GF54309,59.12,34.36,Rio de Janeiro,Rio de Janeiro,Brasil
+1003,2/3/2017,AX101,GF54381,56.9,37.79,Campos,Rio de Janeiro,Brasil
+1005,3/3/2017,AX101,GF54695,56.12,35.73,Rio de Janeiro,Rio de Janeiro,Brasil
+1020,27/03/2017,AX101,GF54354,69.12,31.61,São Paulo,São Paulo,Brasil
+1026,9/3/2017,AX101,GF54502,70.12,35.73,Belo Horizonte,Minas Gerais,Brasil
+1032,5/3/2017,AX101,GF54361,70.13,33.67,Linhares,Espírito Santo,Brasil
+1081,8/3/2017,AX101,GF54586,70.45,30.92,São Paulo,São Paulo,Brasil
+1099,24/03/2017,AX101,GF54553,71.45,32.3,São Paulo,São Paulo,Brasil
+1022,7/3/2017,BX103,GF54492,71.9,35.84,Petrópolis,Rio de Janeiro,Brasil
+1035,1/3/2017,BX103,GF54414,72.34,33.78,Vitória,Espírito Santo,Brasil
+1051,3/3/2017,BX103,GF54298,73.45,33.09,São Paulo,São Paulo,Brasil
+1052,13/03/2017,BX103,GF54674,71.2,31.71,São Paulo,São Paulo,Brasil
+1069,6/3/2017,BX103,GF54305,72.13,34.47,Belo Horizonte,Minas Gerais,Brasil
+1073,17/03/2017,BX103,GF54695,72.09,34.47,São Paulo,São Paulo,Brasil
+1075,19/03/2017,BX103,GF54500,73.08,33.09,São Paulo,São Paulo,Brasil
+1078,7/3/2017,BX103,GF54548,74.1,37.22,Belo Horizonte,Minas Gerais,Brasil
+1080,4/3/2017,BX103,GF54291,75.03,33.09,São Paulo,São Paulo,Brasil
+1091,22/03/2017,BX103,GF54648,75.04,34.47,Campos,Rio de Janeiro,Brasil
+1092,27/03/2017,BX103,GF54624,76.05,32.4,Belo Horizonte,Minas Gerais,Brasil
+1096,27/03/2017,BX103,GF54642,77.9,35.16,São Paulo,São Paulo,Brasil
+1097,18/03/2017,BX103,GF54286,78.9,35.84,São Paulo,São Paulo,Brasil
+1101,3/3/2017,BX103,GF54602,81.9,35.16,Belo Horizonte,Minas Gerais,Brasil
+1103,10/3/2017,BX103,GF54456,80.04,37.22,Betim,Minas Gerais,Brasil
+1028,23/03/2017,CX103,GF54509,80.05,33.72,Belo Horizonte,Minas Gerais,Brasil
+1042,27/03/2017,CX103,GF54368,80.34,40.32,Vila Velha,Espírito Santo,Brasil
+1056,1/3/2017,CX103,GF54371,75.34,40.32,São Paulo,São Paulo,Brasil
+1058,8/3/2017,CX103,GF54449,78.9,38.85,São Paulo,São Paulo,Brasil
+1088,20/03/2017,CX103,GF54641,77.23,33.72,Belo Horizonte,Minas Gerais,Brasil
