@@ -21,6 +21,7 @@ install.packages("ggplot2")
 install.packages("dplyr")
 install.packages("reshape")
 install.packages("randomForest")
+install.packages("e1071")
 
 # Carregando os pacotes 
 library(Amelia)
@@ -29,6 +30,7 @@ library(caret)
 library(reshape)
 library(randomForest)
 library(dplyr)
+library(e1071)
 
 # Carregando os datasets
 dataset <- read.csv("credit-card.csv")
