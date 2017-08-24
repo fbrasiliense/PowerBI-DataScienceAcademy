@@ -1,0 +1,12 @@
+Moda = MINX (
+    TOPN (
+        1,
+        ADDCOLUMNS (
+            VALUES ( Vendas[Valor] ),
+            "Frequency", CALCULATE ( COUNT ( Vendas[Valor] ) )
+        ),
+        [Frequency],
+        0
+    ),
+    Vendas[Valor]
+)
