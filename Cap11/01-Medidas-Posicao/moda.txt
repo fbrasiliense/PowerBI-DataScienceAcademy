@@ -1,3 +1,5 @@
+# Caso tenha problemas, substitua as vírgulas por ponto-e-vírgula
+
 Moda = MINX (
     TOPN (
         1,
