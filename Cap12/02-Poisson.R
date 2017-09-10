@@ -7,7 +7,7 @@ getwd()
 # A distribuição de Poisson é a distribuição de probabilidade de ocorrências de eventos independentes em um 
 # intervalo.
 
-# Se há doze carros cruzando uma ponte por minuto em média, encontre a probabilidade de ter 
+# Se há 12 carros cruzando uma ponte por minuto em média, encontre a probabilidade de ter 
 # dezessete ou mais carros cruzando a ponte em um minuto específico.
 
 # A probabilidade de ter 17 ou mais carros cruzando a ponte em um minuto está na parte superior da cauda 
