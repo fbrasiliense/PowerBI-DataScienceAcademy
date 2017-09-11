@@ -24,8 +24,20 @@ getwd()
 # Aplicamos a função pnorm da distribuição normal com média 72 e desvio padrão 15,2. Uma vez que 
 # estamos procurando o percentual de alunos com pontuação superior a 84, estamos interessados na cauda 
 # superior da distribuição normal.
+?pnorm
 
 # A porcentagem de alunos com pontuação de 84 ou mais no vestibular é de 21,5%.
-?pnorm
 pnorm(84, mean = 72, sd = 15.2, lower.tail = FALSE) 
-hist(rnorm(84, mean = 72, sd = 15.2))
+
+# A função rnorm é usada para gerar números aleatórios cuja distribuição é normal. 
+# Recebe o tamanho da amostra como entrada e gera muitos números aleatórios. 
+# Criamos um histograma para mostrar a distribuição dos números gerados.
+hist(rnorm(1000, mean = 3, sd = 0.25))
+
+
+
+
+
+
+
+
