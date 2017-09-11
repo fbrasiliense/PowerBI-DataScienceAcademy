@@ -26,6 +26,8 @@ getwd()
 # superior da distribuição normal.
 ?pnorm
 
+# A função tem este formato: pnorm(q, mean=0, sd=1) # Distribuição de Probabilidade Cumulativa 
+# Retorna P (X <= q), onde X é uma variável aleatória da distribuição normal especificada.
 # A porcentagem de alunos com pontuação de 84 ou mais no vestibular é de 21,5%.
 pnorm(84, mean = 72, sd = 15.2, lower.tail = FALSE) 
 
